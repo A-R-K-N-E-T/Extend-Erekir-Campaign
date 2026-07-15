@@ -19,7 +19,6 @@
                 type: "SectorComplete",
                 preset: "Threeways"
             }
-            }
         ]
     },
     difficulty: 5,
