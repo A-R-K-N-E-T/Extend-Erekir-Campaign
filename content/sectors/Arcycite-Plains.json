@@ -18,10 +18,6 @@
                 type: "SectorComplete",
                 preset: "stronghold"
             }
-            {
-                type: "SectorComplete",
-                preset: "Beryllium-bastion"
-            }
         ]
     },
     difficulty: 8,
