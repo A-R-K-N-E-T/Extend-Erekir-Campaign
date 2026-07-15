@@ -2,7 +2,7 @@
     sector: 6,
     planet: "erekir",
     research: {
-        parent: "basin",
+        parent: "Threeways",
         objectives: [
         "payload-mass-driver"
         "payload-loader"
@@ -14,6 +14,11 @@
             {
                 type: "SectorComplete",
                 preset: "split"
+            }
+            {
+                type: "SectorComplete",
+                preset: "Threeways"
+            }
             }
         ]
     },
