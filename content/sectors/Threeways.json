@@ -13,7 +13,7 @@
             }
             {
                 type: "SectorComplete",
-                preset: "Slag-Coast"
+                preset: "slag-coast"
             }
         ]
     },
